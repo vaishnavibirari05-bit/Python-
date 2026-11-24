@@ -21,5 +21,5 @@ print("a <= b:", a <= b)   # True
 # Extra practice with strings
 x = "Ram"
 y = "ram"
-print("x == y:", x == y)   # False (case-sensitive)
-print("x != y:", x != y)   # True
+print("x == y:", x == y)   
+print("x != y:", x != y)   
