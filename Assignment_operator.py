@@ -1,3 +1,4 @@
+# The Assignment Operator is part of the on type operator in python.
 a = 10
 
 a += 5   # 15
